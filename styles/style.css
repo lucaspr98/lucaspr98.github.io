@@ -8,6 +8,16 @@
 }
 
 .info {
-    border-radius: 40px;
+    border-radius: 50;
     position: relative;
+}
+
+p {
+    text-align: justify;
+}
+
+#pic {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
 }
